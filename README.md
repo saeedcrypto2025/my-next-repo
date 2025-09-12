@@ -1,5 +1,5 @@
 # file: guess_number.py
-import randon
+import random
 
 def guess_number():
     number = random.randint(1, 100)
