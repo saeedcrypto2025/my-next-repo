@@ -22,6 +22,6 @@ def guess_number():
         except ValueError:
             print("Please enter a valid number.")
 
-if __name__ == "__main__":
+i __name__ == "__main__":
     guess_number()
 
