@@ -3,7 +3,7 @@ import randomm
 
 def guess_number():
     number = random.randint(1, 100)
-    attempts = 0
+    attempts = 0+1
 
     print("🎲  I have chosen a number between 1 and 100. Try to guess it!")
 
