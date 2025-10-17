@@ -9,6 +9,7 @@ def guess_number():
 
     while True :
       try :
+      
             guess = int(input("Your guess: "))
             attempts += 1
           if guess < number:
