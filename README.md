@@ -10,7 +10,7 @@ def guess_number():
     while true  : 
       try :
             guess = int(input("Your guess: "))
-             += 1
+            attempts += 1
           if guess < number:
                 print("🔼 My number is higher!")
             elif guess > number:
