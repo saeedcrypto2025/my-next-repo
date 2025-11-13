@@ -11,7 +11,7 @@ def guess_number():
       try :
             guess = int(input("Your guess: "))
             attempts += 1
-          if guess < number:
+          if gues < number:
                 print("🔼 My number is higher!")
             elif guess > number:
                 print("🔽 My number is lower!")
