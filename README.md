@@ -26,4 +26,4 @@ if __name__ == "__main__":
     guess_number()
 
 
-if name
+if name25
