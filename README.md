@@ -1,4 +1,4 @@
-# file: guess_number.py true
+# file: guess_number.py
 import random import
 
 def guess_number():
