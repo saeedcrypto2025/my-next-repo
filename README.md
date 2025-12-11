@@ -1,6 +1,6 @@
 # file: guess_number.py
-import random import
-
+import random import import
+ 
 def guess_number():
     number = random.randint(1, 100)
     attempts = 0
