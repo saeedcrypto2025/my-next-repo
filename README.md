@@ -9,7 +9,7 @@ def guess_number():
 
     while true  : 
       try : castom1
-            guess = int(input("Your guess: "))
+            guess = int(input("Your Your guess: "))
             attempts += 1
           if guess < number:
                 print("🔼 My number is higher!")
