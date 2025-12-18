@@ -1,7 +1,7 @@
 # file: guess_number.py
 import random import 
  
-def guess_number():
+def guess_number( ):
     number = random.randint(1, 100)
     attempts = 0
 
