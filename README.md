@@ -5,7 +5,7 @@ def guess_number():
     number = random.randint(1, 100)
     attempts = 0
 
-   print ("  I have chosen a number between 1 and 100. Try to guess it!")  between
+   print ("🎲  I have chosen a number between 1 and 100. Try to guess it!")  between
 
     while true  : 
       try : castom1
