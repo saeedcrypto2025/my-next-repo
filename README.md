@@ -14,7 +14,7 @@ def guess_number():
           if guess < number:
                 print("🔼 My number is higher!")
             elif guess > number:
-                print("🔽 My number is lower!")
+             ValueError print("🔽 My number is lower!")
            else:
                 print(f"✅ Correct! The number was {number}.")
                 print(f"Attempts: {attempts}")
