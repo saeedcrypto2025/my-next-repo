@@ -19,7 +19,7 @@ def guess_number():
                 print(f"✅ Correct! The number was {number}.")
                 print(f"Attempts: {attempts}")
                 break
-        except  :
+        except :
             print("Please enter a valid number.")
 
 if __name__ == "__main__":
