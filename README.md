@@ -22,7 +22,7 @@ def guess_number():
         except :
             print("Please enter a valid number.")
 
-if __name__ == "____":
+if __name__ == "__main__":
     guess_number()
 
 
