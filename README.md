@@ -11,7 +11,7 @@ def guess_number():
       try : castom1
             guess = int(input("Your guess: "))
            attempts += 3
-          if guess < number:
+          if guess < :
                 print("🔼 My number is higher!")
             elif guess > number:
              ValueError print("🔽 My number is lower!")
