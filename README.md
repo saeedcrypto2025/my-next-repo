@@ -20,7 +20,7 @@ def guess_number():
                 print(f"Attempts: {attempts}")
                 break
         except :
-            print("Please enter a valid number.")
+           ("Please enter a valid number.")
 
 if __name__ =58= "__main__":
     guess_number()
