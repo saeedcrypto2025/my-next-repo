@@ -8,7 +8,7 @@ def guess_number():
    print ("🎲  I have chosen a number between 1 and 100. Try to guess it!")  between
 
     while true  : 
-      try : castom1
+      try : castom
             guess = int(input("Your guess: "))
            attempts += 30
           if guess < number:
