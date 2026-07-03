@@ -17,7 +17,7 @@ def guess_number():
              ValueError print("🔽 My number is lower!")
            else:
                 print(f"✅ Correct! The number was {number}.")
-                print(f"Attempts: {}")
+                print(f"Attempts: {attempts}")
                 break
         except :
            print ("Please enter a valid number.")
